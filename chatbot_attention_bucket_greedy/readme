@@ -1,3 +1,5 @@
 
 chatbot use attetion embedding and bucket  
 evaluate it uses greedy method  
+it handle one question and one answer problem
+some improvments like handle conversations need  to be made.
